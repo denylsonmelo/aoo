@@ -9,8 +9,8 @@ Complementar os diagramas abaixo
 
 ## Cronograma final
 
-    18/09  Prova 2
-    22/09  Segunda Chamada (Prova 1) / Recuperação (Bimestre 1) 
+    22/09  Prova 2
+    25/09  Segunda Chamada (Prova 1) / Recuperação (Bimestre 1) 
     01/10  Entrega do Trabalho Final
     02/10  Segunda Chamada (Prova 2) / Recuperação (Bimestre 2)
     04/10  Prova final 
@@ -22,16 +22,15 @@ sistemas proprios baseados em sistemas famosos relevantes, grandes, funcionais e
 
 **Grupo:** 4 pessoas
 
-
-* por que da escolha do sistema
-* Documento de requisitos(funcionais e não-funcionais)
-* Mockup de telas
-* Diagramas de casos de uso
-* Diagramas de classes
-* Diagramas de sequencia
-* Diagramas de atividade
-* Diagramas de estado
-* ~~Diagramas de componentes~~
+* Por que da escolha do sistema .......................... (1 pt)
+* Documento de requisitos(funcionais e não-funcionais) ... (1 pt)
+* Mockup de telas ........................................ (1 pt)
+* Diagramas de casos de uso .............................. (2 pt)
+* Diagramas de classes ................................... (1 pt)
+* Diagramas de sequencia ................................. (1 pt)
+* Diagramas de atividade ................................. (1 pt)
+* Diagramas de estado .................................... (1 pt)
+* Diagramas de componentes................................ (1 pt)
 * ~~Diagramas de componentes~~
 * ~~Diagramas de componentes~~
 * ~~Diagramas de componentes~~
@@ -39,7 +38,11 @@ sistemas proprios baseados em sistemas famosos relevantes, grandes, funcionais e
 **Prazo Final:** 01/10/2017, às 23:59 hrs
 
 **Forma de entrega:**
-* Enviar todo o projeto para sua conta do GitHub
+* Enviar o Documento de Requisitos como .pdf
+* Enviar todos os diagramas em um único arquivo .asta, .jude ou .juth
+* Enviar os desenhos das telas como arquivos de imagem(.png, .jpg) independente da ferramenta de mockup escolhida
+* Crie um repositório no GitHub e envie todo os arquivos para lá
+* No README.md coloque os componentes do grupo
 * Adicionar o usuário denylsonmelo como colaborador do projeto
 
 **Observações:**
