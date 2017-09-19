@@ -22,15 +22,15 @@ sistemas proprios baseados em sistemas famosos relevantes, grandes, funcionais e
 
 **Grupo:** 4 pessoas
 
-* Por que da escolha do sistema .......................... (1 pt)
+* Por que da escolha do sistema ................................................... (1 pt)
 * Documento de requisitos(funcionais e não-funcionais) ... (1 pt)
-* Mockup de telas .............................................................................. (1 pt)
-* Diagramas de casos de uso .............................. (2 pt)
-* Diagramas de classes ................................... (1 pt)
-* Diagramas de sequencia ................................. (1 pt)
-* Diagramas de atividade ................................. (1 pt)
-* Diagramas de estado .................................... (1 pt)
-* Diagramas de componentes................................ (1 pt)
+* Mockup de telas ............................................................................... (1 pt)
+* Diagramas de casos de uso .......................................................... (2 pt)
+* Diagramas de classes ...................................................................... (1 pt)
+* Diagramas de sequencia ............................................................... (1 pt)
+* Diagramas de atividade ................................................................. (1 pt)
+* Diagramas de estado ...................................................................... (1 pt)
+* Diagramas de componentes......................................................... (1 pt)
 * ~~Diagramas de componentes~~
 * ~~Diagramas de componentes~~
 * ~~Diagramas de componentes~~
