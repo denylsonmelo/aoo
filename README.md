@@ -24,7 +24,7 @@ sistemas proprios baseados em sistemas famosos relevantes, grandes, funcionais e
 
 * Por que da escolha do sistema .......................... (1 pt)
 * Documento de requisitos(funcionais e não-funcionais) ... (1 pt)
-* Mockup de telas ........................................ (1 pt)
+* Mockup de telas .............................................................................. (1 pt)
 * Diagramas de casos de uso .............................. (2 pt)
 * Diagramas de classes ................................... (1 pt)
 * Diagramas de sequencia ................................. (1 pt)
